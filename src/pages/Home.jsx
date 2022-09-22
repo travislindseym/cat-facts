@@ -69,7 +69,9 @@ function Home() {
       <div className="mt-3">
         <Row className="mb-5 justify-content-center text-center text-decoration-underline">
           <h3>Cat Facts API</h3>
-          <a href="https://catfact.ninja/">https://catfact.ninja/</a>
+          <a href="https://catfact.ninja/" alt="catfacts">
+            https://catfact.ninja/
+          </a>
         </Row>
         <Row>
           <Row className="mt-3">
